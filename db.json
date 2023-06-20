@@ -5,6 +5,7 @@
     "preço": "10R$",
     "categoria": "ração",
     "descrição": "Ração para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -13,6 +14,7 @@
     "preço": "12R$",
     "categoria": "ração",
     "descrição": "Ração para cães adultos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -21,6 +23,7 @@
     "preço": "8R$",
     "categoria": "brinquedo",
     "descrição": "Brinquedo de corda para cães",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -29,6 +32,7 @@
     "preço": "6R$",
     "categoria": "brinquedo",
     "descrição": "Brinquedo com pena para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -37,6 +41,7 @@
     "preço": "15R$",
     "categoria": "acessório",
     "descrição": "Coleira ajustável para cães de porte médio e grande",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -45,6 +50,7 @@
     "preço": "7R$",
     "categoria": "acessório",
     "descrição": "Escova de pelos para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -53,6 +59,7 @@
     "preço": "14R$",
     "categoria": "ração",
     "descrição": "Ração para cães filhotes",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -61,6 +68,7 @@
     "preço": "5R$",
     "categoria": "brinquedo",
     "descrição": "Bola de sisal para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -69,6 +77,7 @@
     "preço": "12R$",
     "categoria": "acessório",
     "descrição": "Comedouro de inox para cães e gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -77,6 +86,7 @@
     "preço": "11R$",
     "categoria": "ração",
     "descrição": "Ração para cães adultos de porte pequeno",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -85,6 +95,7 @@
     "preço": "18R$",
     "categoria": "acessório",
     "descrição": "Arranhador de parede para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -93,6 +104,7 @@
     "preço": "16R$",
     "categoria": "ração",
     "descrição": "Ração para gatos adultos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -101,6 +113,7 @@
     "preço": "9R$",
     "categoria": "brinquedo",
     "descrição": "Brinquedo mordedor para cães",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   },
   {
@@ -109,6 +122,7 @@
     "preço": "20R$",
     "categoria": "acessório",
     "descrição": "Cama confortável para gatos",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "gato"
   },
   {
@@ -117,6 +131,7 @@
     "preço": "7R$",
     "categoria": "acessório",
     "descrição": "Petisco dental para cães de porte pequeno",
+    "imagem": "caminho/para/imagem1.jpg",
     "animal": "cão"
   }
 ]
