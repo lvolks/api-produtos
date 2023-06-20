@@ -1,4 +1,4 @@
-const pedidoItems = {
+
     "total": 285.00,
     "items": [
         {
@@ -17,4 +17,4 @@ const pedidoItems = {
             "preco": 50
         }
     ]
-}
+
