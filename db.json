@@ -1,20 +1,14 @@
-
-    "total": 285.00,
-    "items": [
-        {
-            "nome": "Item 1",
-            "qtde": 2,
-            "preco": 150
-        },
-        {
-            "nome": "Item 2",
-            "qtde": 1,
-            "preco": 50
-        },
-        {
-            "nome": "Item 3",
-            "qtde": 4,
-            "preco": 50
-        }
-    ]
-
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
