@@ -1,14 +1,122 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "nome": "Ração Whiskas",
+    "preço": "10R$",
+    "categoria": "ração",
+    "descrição": "Ração para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 2,
+    "nome": "Ração Pedigree",
+    "preço": "12R$",
+    "categoria": "ração",
+    "descrição": "Ração para cães adultos",
+    "animal": "cão"
+  },
+  {
+    "id": 3,
+    "nome": "Brinquedo de Corda",
+    "preço": "8R$",
+    "categoria": "brinquedo",
+    "descrição": "Brinquedo de corda para cães",
+    "animal": "cão"
+  },
+  {
+    "id": 4,
+    "nome": "Brinquedo para Gatos",
+    "preço": "6R$",
+    "categoria": "brinquedo",
+    "descrição": "Brinquedo com pena para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 5,
+    "nome": "Coleira Ajustável",
+    "preço": "15R$",
+    "categoria": "acessório",
+    "descrição": "Coleira ajustável para cães de porte médio e grande",
+    "animal": "cão"
+  },
+  {
+    "id": 6,
+    "nome": "Escova para Gatos",
+    "preço": "7R$",
+    "categoria": "acessório",
+    "descrição": "Escova de pelos para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 7,
+    "nome": "Ração Premier",
+    "preço": "14R$",
+    "categoria": "ração",
+    "descrição": "Ração para cães filhotes",
+    "animal": "cão"
+  },
+  {
+    "id": 8,
+    "nome": "Bola de Sisal",
+    "preço": "5R$",
+    "categoria": "brinquedo",
+    "descrição": "Bola de sisal para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 9,
+    "nome": "Comedouro de Inox",
+    "preço": "12R$",
+    "categoria": "acessório",
+    "descrição": "Comedouro de inox para cães e gatos",
+    "animal": "cão"
+  },
+  {
+    "id": 10,
+    "nome": "Ração Golden",
+    "preço": "11R$",
+    "categoria": "ração",
+    "descrição": "Ração para cães adultos de porte pequeno",
+    "animal": "cão"
+  },
+  {
+    "id": 11,
+    "nome": "Arranhador de Parede",
+    "preço": "18R$",
+    "categoria": "acessório",
+    "descrição": "Arranhador de parede para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 12,
+    "nome": "Ração Royal Canin",
+    "preço": "16R$",
+    "categoria": "ração",
+    "descrição": "Ração para gatos adultos",
+    "animal": "gato"
+  },
+  {
+    "id": 13,
+    "nome": "Brinquedo Mordedor",
+    "preço": "9R$",
+    "categoria": "brinquedo",
+    "descrição": "Brinquedo mordedor para cães",
+    "animal": "cão"
+  },
+  {
+    "id": 14,
+    "nome": "Cama para Gatos",
+    "preço": "20R$",
+    "categoria": "acessório",
+    "descrição": "Cama confortável para gatos",
+    "animal": "gato"
+  },
+  {
+    "id": 15,
+    "nome": "Petisco Dental",
+    "preço": "7R$",
+    "categoria": "acessório",
+    "descrição": "Petisco dental para cães de porte pequeno",
+    "animal": "cão"
   }
-}
+]
