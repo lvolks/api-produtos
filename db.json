@@ -1,5 +1,4 @@
-{
-"produtos": [
+[
   {
     "id": 1,
     "nome": "Ração Whiskas",
@@ -105,20 +104,4 @@
     "categoria_id": "1",
     "imagem": "caminho/para/imagem1.jpg"
   }
-],
-"categorias": [
-  {
-    "id": 1,
-    "nome": "acessório"
-  },
-  {
-    "id": 2,
-    "nome": "brinquedo"
-  },
-  {
-    "id": 3,
-    "nome": "ração"
-  }
 ]
-}
-  
