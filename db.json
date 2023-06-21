@@ -3,7 +3,7 @@
   {
     "id": 1,
     "nome": "Ração Whiskas",
-    "preço": "10R$",
+    "preço": "10",
     "categoria": "Ração",
     "descrição": "Ração para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "nome": "Ração Pedigree",
-    "preço": "12R$",
+    "preço": "12",
     "categoria": "Ração",
     "descrição": "Ração para cães adultos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -21,7 +21,7 @@
   {
     "id": 3,
     "nome": "Brinquedo de Corda",
-    "preço": "8R$",
+    "preço": "8",
     "categoria": "Brinquedo",
     "descrição": "Brinquedo de corda para cães",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -30,7 +30,7 @@
   {
     "id": 4,
     "nome": "Brinquedo para Gatos",
-    "preço": "6R$",
+    "preço": "6",
     "categoria": "Brinquedo",
     "descrição": "Brinquedo com pena para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -39,7 +39,7 @@
   {
     "id": 5,
     "nome": "Coleira Ajustável",
-    "preço": "15R$",
+    "preço": "15",
     "categoria": "Acessório",
     "descrição": "Coleira ajustável para cães de porte médio e grande",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -48,7 +48,7 @@
   {
     "id": 6,
     "nome": "Escova para Gatos",
-    "preço": "7R$",
+    "preço": "7",
     "categoria": "Acessório",
     "descrição": "Escova de pelos para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -57,7 +57,7 @@
   {
     "id": 7,
     "nome": "Ração Premier",
-    "preço": "14R$",
+    "preço": "14",
     "categoria": "Ração",
     "descrição": "Ração para cães filhotes",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "nome": "Bola de Sisal",
-    "preço": "5R$",
+    "preço": "5",
     "categoria": "Brinquedo",
     "descrição": "Bola de sisal para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -75,7 +75,7 @@
   {
     "id": 9,
     "nome": "Comedouro de Inox",
-    "preço": "12R$",
+    "preço": "12",
     "categoria": "Acessório",
     "descrição": "Comedouro de inox para cães e gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -84,7 +84,7 @@
   {
     "id": 10,
     "nome": "Ração Golden",
-    "preço": "11R$",
+    "preço": "11",
     "categoria": "Ração",
     "descrição": "Ração para cães adultos de porte pequeno",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -93,7 +93,7 @@
   {
     "id": 11,
     "nome": "Arranhador de Parede",
-    "preço": "18R$",
+    "preço": "18",
     "categoria": "Acessório",
     "descrição": "Arranhador de parede para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -102,7 +102,7 @@
   {
     "id": 12,
     "nome": "Ração Royal Canin",
-    "preço": "16R$",
+    "preço": "16",
     "categoria": "Ração",
     "descrição": "Ração para gatos adultos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -111,7 +111,7 @@
   {
     "id": 13,
     "nome": "Brinquedo Mordedor",
-    "preço": "9R$",
+    "preço": "9",
     "categoria": "Brinquedo",
     "descrição": "Brinquedo mordedor para cães",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -120,7 +120,7 @@
   {
     "id": 14,
     "nome": "Cama para Gatos",
-    "preço": "20R$",
+    "preço": "20",
     "categoria": "Acessório",
     "descrição": "Cama confortável para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
@@ -129,7 +129,7 @@
   {
     "id": 15,
     "nome": "Petisco Dental",
-    "preço": "7R$",
+    "preço": "7",
     "categoria": "Acessório",
     "descrição": "Petisco dental para cães de porte pequeno",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
