@@ -5,149 +5,119 @@
     "nome": "Ração Whiskas",
     "preço": "10R$",
     "categoria_id": "3",
-    "descrição": "Ração para gatos",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
-    "animal": "gato"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328"
   },
   {
     "id": 2,
     "nome": "Ração Pedigree",
     "preço": "12R$",
     "categoria_id": "3",
-    "descrição": "Ração para cães adultos",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
-    "animal": "cão"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328"
   },
   {
     "id": 3,
     "nome": "Brinquedo de Corda",
     "preço": "8R$",
     "categoria_id": "2",
-    "descrição": "Brinquedo de corda para cães",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
-    "animal": "cão"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328"
   },
   {
     "id": 4,
     "nome": "Brinquedo para Gatos",
     "preço": "6R$",
     "categoria_id": "2",
-    "descrição": "Brinquedo com pena para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 5,
     "nome": "Coleira Ajustável",
     "preço": "15R$",
     "categoria_id": "1",
-    "descrição": "Coleira ajustável para cães de porte médio e grande",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 6,
     "nome": "Escova para Gatos",
     "preço": "7R$",
     "categoria_id": "1",
-    "descrição": "Escova de pelos para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 7,
     "nome": "Ração Premier",
     "preço": "14R$",
     "categoria_id": "3",
-    "descrição": "Ração para cães filhotes",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 8,
     "nome": "Bola de Sisal",
     "preço": "5R$",
     "categoria_id": "2",
-    "descrição": "Bola de sisal para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 9,
     "nome": "Comedouro de Inox",
     "preço": "12R$",
     "categoria_id": "1",
-    "descrição": "Comedouro de inox para cães e gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 10,
     "nome": "Ração Golden",
     "preço": "11R$",
     "categoria_id": "3",
-    "descrição": "Ração para cães adultos de porte pequeno",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 11,
     "nome": "Arranhador de Parede",
     "preço": "18R$",
     "categoria_id": "1",
-    "descrição": "Arranhador de parede para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 12,
     "nome": "Ração Royal Canin",
     "preço": "16R$",
     "categoria_id": "3",
-    "descrição": "Ração para gatos adultos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 13,
     "nome": "Brinquedo Mordedor",
     "preço": "9R$",
     "categoria_id": "2",
-    "descrição": "Brinquedo mordedor para cães",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 14,
     "nome": "Cama para Gatos",
     "preço": "20R$",
     "categoria_id": "1",
-    "descrição": "Cama confortável para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "imagem": "caminho/para/imagem1.jpg"
   },
   {
     "id": 15,
     "nome": "Petisco Dental",
     "preço": "7R$",
     "categoria_id": "1",
-    "descrição": "Petisco dental para cães de porte pequeno",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "imagem": "caminho/para/imagem1.jpg"
   }
 ],
 "categorias": [
   {
     "id": 1,
-    "nome": "acessório",
+    "nome": "acessório"
   },
   {
     "id": 2,
-    "nome": "brinquedo",
+    "nome": "brinquedo"
   },
   {
     "id": 3,
-    "nome": "ração",
+    "nome": "ração"
   }
 ]
 }
