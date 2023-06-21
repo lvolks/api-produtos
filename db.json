@@ -1,137 +1,74 @@
 [
   {
-    "id": 1,
-    "nome": "Ração Whiskas",
-    "preço": "10R$",
-    "categoria": "ração",
-    "descrição": "Ração para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 2,
-    "nome": "Ração Pedigree",
-    "preço": "12R$",
-    "categoria": "ração",
-    "descrição": "Ração para cães adultos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 3,
-    "nome": "Brinquedo de Corda",
-    "preço": "8R$",
-    "categoria": "brinquedo",
-    "descrição": "Brinquedo de corda para cães",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 4,
-    "nome": "Brinquedo para Gatos",
-    "preço": "6R$",
-    "categoria": "brinquedo",
-    "descrição": "Brinquedo com pena para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 5,
-    "nome": "Coleira Ajustável",
-    "preço": "15R$",
-    "categoria": "acessório",
-    "descrição": "Coleira ajustável para cães de porte médio e grande",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 6,
-    "nome": "Escova para Gatos",
-    "preço": "7R$",
-    "categoria": "acessório",
-    "descrição": "Escova de pelos para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 7,
-    "nome": "Ração Premier",
-    "preço": "14R$",
-    "categoria": "ração",
-    "descrição": "Ração para cães filhotes",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 8,
-    "nome": "Bola de Sisal",
-    "preço": "5R$",
-    "categoria": "brinquedo",
-    "descrição": "Bola de sisal para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 9,
-    "nome": "Comedouro de Inox",
-    "preço": "12R$",
-    "categoria": "acessório",
-    "descrição": "Comedouro de inox para cães e gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 10,
-    "nome": "Ração Golden",
-    "preço": "11R$",
-    "categoria": "ração",
-    "descrição": "Ração para cães adultos de porte pequeno",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
-  },
-  {
-    "id": 11,
-    "nome": "Arranhador de Parede",
-    "preço": "18R$",
-    "categoria": "acessório",
-    "descrição": "Arranhador de parede para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 12,
-    "nome": "Ração Royal Canin",
-    "preço": "16R$",
-    "categoria": "ração",
-    "descrição": "Ração para gatos adultos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
-  },
-  {
-    "id": 13,
-    "nome": "Brinquedo Mordedor",
-    "preço": "9R$",
-    "categoria": "brinquedo",
-    "descrição": "Brinquedo mordedor para cães",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "id": 85,
+    "titulo": "The Avengers",
+    "ano": 2012,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
+    "nota": 4.9,
+    "assistido": true
   },
   {
     "id": 14,
-    "nome": "Cama para Gatos",
-    "preço": "20R$",
-    "categoria": "acessório",
-    "descrição": "Cama confortável para gatos",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "gato"
+    "titulo": "Avengers: Age of Ultron",
+    "ano": 2015,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/2/22/OsVingadores2.jpg?20150224175213",
+    "nota": 4.3,
+    "assistido": false
   },
   {
-    "id": 15,
-    "nome": "Petisco Dental",
-    "preço": "7R$",
-    "categoria": "acessório",
-    "descrição": "Petisco dental para cães de porte pequeno",
-    "imagem": "caminho/para/imagem1.jpg",
-    "animal": "cão"
+    "id": 96,
+    "titulo": "Avengers: Infinity War",
+    "ano": 2018,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/90/Avengers_Infinity_War.jpg?20180316152122",
+    "nota": 4.8,
+    "assistido": true
+  },
+  {
+    "id": 78,
+    "titulo": "Avengers: Endgame",
+    "ano": 2019,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9b/Avengers_Endgame.jpg?20190317150357",
+    "nota": 3.8,
+    "assistido": true
+  },
+  {
+    "id": 36,
+    "titulo": "Wonder Woman",
+    "ano": 2017,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Mulher_Maravilha_2009.jpg?20171230123503",
+    "nota": 5,
+    "assistido": false
+  },
+  {
+    "id": 39,
+    "titulo": "Doctor Strange",
+    "ano": 2016,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Doctor_Strange_poster.jpg",
+    "nota": 5,
+    "assistido": true
+  },
+  {
+    "id": 80,
+    "titulo": "Guardians of the Galaxy",
+    "ano": 2014,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+    "nota": 4.8,
+    "assistido": true
+  },
+  {
+    "id": 43,
+    "titulo": "Iron Man 2",
+    "ano": 2021,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Homem_de_Ferro_2_-_Poster.jpg",
+    "nota": 4.7,
+    "assistido": true
+  },
+  {
+    "id": 61,
+    "titulo": "Iron Man",
+    "ano": 2008,
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+    "nota": 5,
+    "assistido": false
   }
 ]
