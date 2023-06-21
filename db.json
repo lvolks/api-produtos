@@ -1,4 +1,5 @@
-[
+{
+  "produtos":[
   {
     "id": 1,
     "nome": "Ração Whiskas",
@@ -105,3 +106,4 @@
     "imagem": "caminho/para/imagem1.jpg"
   }
 ]
+}
