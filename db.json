@@ -7,7 +7,7 @@
     "categoria": "ração",
     "descrição": "Ração para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
     "categoria": "ração",
     "descrição": "Ração para cães adultos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "categoria": "brinquedo",
     "descrição": "Brinquedo de corda para cães",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "categoria": "brinquedo",
     "descrição": "Brinquedo com pena para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 5,
@@ -43,7 +43,7 @@
     "categoria": "acessório",
     "descrição": "Coleira ajustável para cães de porte médio e grande",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 6,
@@ -52,7 +52,7 @@
     "categoria": "acessório",
     "descrição": "Escova de pelos para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "categoria": "ração",
     "descrição": "Ração para cães filhotes",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@
     "categoria": "brinquedo",
     "descrição": "Bola de sisal para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 9,
@@ -88,7 +88,7 @@
     "categoria": "ração",
     "descrição": "Ração para cães adultos de porte pequeno",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 11,
@@ -97,7 +97,7 @@
     "categoria": "acessório",
     "descrição": "Arranhador de parede para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 12,
@@ -106,7 +106,7 @@
     "categoria": "ração",
     "descrição": "Ração para gatos adultos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 13,
@@ -115,7 +115,7 @@
     "categoria": "brinquedo",
     "descrição": "Brinquedo mordedor para cães",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   },
   {
     "id": 14,
@@ -124,7 +124,7 @@
     "categoria": "acessório",
     "descrição": "Cama confortável para gatos",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "gato"
+    "animal": "Gato"
   },
   {
     "id": 15,
@@ -133,7 +133,7 @@
     "categoria": "acessório",
     "descrição": "Petisco dental para cães de porte pequeno",
     "imagem": "https://images.tcdn.com.br/img/img_prod/752354/racao_whiskas_carne_para_gatos_adultos_castrados_500_g_4629_1_335a76cb919db6964efbba4a2939454a.jpg",
-    "animal": "cão"
+    "animal": "Cão"
   }
 ]
 }
